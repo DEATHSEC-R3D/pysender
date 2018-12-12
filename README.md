@@ -1,6 +1,6 @@
 # pysender
 pysender
-ავტორი R3D
-      PYTHON mail sender :)
+ავტორი R3D <br>
+      PYTHON mail sender :)<br>
 გაშვება: 
       python pysender.py
